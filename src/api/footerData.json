@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Mohali, Punjab"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "+91 8968475878"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "sk8751120@gmial.com"
+  }
+]

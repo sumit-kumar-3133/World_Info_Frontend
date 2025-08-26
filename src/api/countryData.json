@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": "114 million (2024 est.)",
+    "interestingFact": "The Great Pyramid of Giza, one of the Seven Wonders of the Ancient World, is the only one that still stands today. It was the tallest man-made structure in the world for over 3,800 years."
+  },
+  {
+    "id": 2,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": "144 million (2024 est.)",
+    "interestingFact": "Russia is the largest country in the world by land area, spanning 11 time zones. It covers over 17 million square kilometers, which is nearly twice the size of the United States."
+  },
+  {
+    "id": 3,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": "40 million (2024 est.)",
+    "interestingFact": "Canada has the longest coastline in the world, with over 243,000 kilometers of coastline along the Atlantic, Pacific, and Arctic oceans. It also contains more lakes than the rest of the world combined."
+  },
+  {
+    "id": 4,
+    "countryName": "Indonesia",
+    "capital": "Jakarta",
+    "population": "279 million (2024 est.)",
+    "interestingFact": "Indonesia is an archipelago of over 17,500 islands, making it the largest island country in the world. It is also home to Komodo dragons, the world's largest lizards."
+  },
+  {
+    "id": 5,
+    "countryName": "Vatican City",
+    "capital": "Vatican City",
+    "population": "825 (2024 est.)",
+    "interestingFact": "Vatican City is the smallest country in the world, both by area and population. It is an independent city-state located within Rome, Italy, and is the headquarters of the Roman Catholic Church."
+  },
+  {
+    "id": 6,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": "220 million (2024 est.)",
+    "interestingFact": "The Amazon Rainforest, the largest tropical rainforest in the world, is primarily located in Brazil. It produces more than 20% of the world's oxygen and is home to an incredible diversity of plant and animal life."
+  },
+  {
+    "id": 7,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": "1.425 billion (2024 est.)",
+    "interestingFact": "The Great Wall of China is the longest wall in the world, stretching over 21,196 kilometers. It was built over centuries to protect the country's northern borders from invaders."
+  },
+  {
+    "id": 8,
+    "countryName": "Monaco",
+    "capital": "Monaco",
+    "population": "37,000 (2024 est.)",
+    "interestingFact": "Monaco has the highest population density in the world, with over 26,000 people per square kilometer. It is also famous for its luxurious casinos and the Formula One Grand Prix."
+  },
+  {
+    "id": 9,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "26.8 million (2024 est.)",
+    "interestingFact": "Australia is the only continent that is also a country. It is home to unique animals like kangaroos and koalas and has a natural wonder, the Great Barrier Reef, the world's largest coral reef system."
+  },
+  {
+    "id": 10,
+    "countryName": "Iceland",
+    "capital": "Reykjavík",
+    "population": "380,000 (2024 est.)",
+    "interestingFact": "Iceland is known as the 'Land of Fire and Ice' due to its active volcanoes and glaciers. It is one of the most geologically active regions in the world and is also a great place to see the Northern Lights."
+  },
+   {
+    "id": 11,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "123 million (2024 est.)",
+    "interestingFact": "Japan has the oldest monarchy in the world. The current emperor, Naruhito, is the 126th monarch in a line that is said to have begun in 660 BC with Emperor Jimmu. The country is also known for having the most vending machines per capita in the world."
+  },
+  {
+    "id": 12,
+    "countryName": "New Zealand",
+    "capital": "Wellington",
+    "population": "5.3 million (2024 est.)",
+    "interestingFact": "New Zealand was the first country to give women the right to vote in 1893. The country is also known for having more sheep than people, with a ratio of about 6 to 1."
+  }
+]
